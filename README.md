@@ -3,6 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 - A bot that written with TypeScript and using Discord.js
+- [한국어](README_ko.md)로 보기
 
 ## Table of Contents
 
