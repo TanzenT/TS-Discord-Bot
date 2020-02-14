@@ -1,15 +1,22 @@
 {
   "name": "ts-discord-bot",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT",
+  "license": "MPL-2.0",
+  "description": "A bot that written with Typescript and using Discord.js",
+  "repository": "https://github.com/TanzenT/TS-Discord-Bot.git",
+  "author": "TanzenT <30624945+TanzenT@users.noreply.github.com>",
+  "private": false,
   "scripts": {
     "start": "node dist/src/index.js",
     "prestart": "tsc"
   },
   "dependencies": {
+    "date-utils": "^1.2.21",
     "discord.js": "^11.5.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2"
   },
   "devDependencies": {
     "@types/node": "^13.7.1",

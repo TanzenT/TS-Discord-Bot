@@ -1,14 +1,17 @@
 import * as Discord from 'discord.js'
-import * as config from '../config.json'
+import { LogManager } from './utils/LogManager'
+import config = require('../config.json')
 
 class TypeBot extends Discord.Client {
   config: object
+  logger: object
   constructor(config) {
     super()
     this.config = config
+    this.logger = LogManager
 
     this.on('ready', () => {
-      console.log("I'm Ready!")
+      LogManager.logger.info("I'm Ready!")
     })
 
     this.on('message', msg => {
