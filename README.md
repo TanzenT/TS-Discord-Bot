@@ -22,7 +22,7 @@
 
 > Using yarn
 
-1. Fork this repository and clone intto your computer.
+1. Fork this repository and clone into your computer.
 2. Open terminal and just type `yarn install`.
 3. Change filename `config.example.json` to `config.json`.
 4. Configure `config.json` file.
@@ -30,7 +30,7 @@
 
 > Using npm
 
-1. Fork this repository and clone intto your computer.
+1. Fork this repository and clone into your computer.
 2. Open terminal and just type `npm i`.
 3. Change filename `config.example.json` to `config.json`.
 4. Configure `config.json` file.
