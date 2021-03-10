@@ -38,7 +38,7 @@
 
 ## 관리자
 
-[@TanzenT](https://github.com/TanzenT)
+[@aroxu](https://github.com/aroxu)
 
 ## 기여
 
@@ -47,4 +47,4 @@
 
 ## [라이센스](LICENSE)
 
-MPL © 2020 TanzenT
+MPL © 2020 aroxu
