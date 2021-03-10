@@ -38,7 +38,7 @@
 
 ## Maintainers
 
-[@TanzenT](https://github.com/TanzenT)
+[@aroxu](https://github.com/aroxu)
 
 ## Contribute
 
@@ -47,4 +47,4 @@
 
 ## [License](LICENSE)
 
-MPL © 2020 TanzenT
+MPL © 2020 aroxu
